@@ -12,4 +12,4 @@ for pupil in grades.keys():
     if grades[pupil] == num_to_match:
         result.append(pupil)
 for k in sorted(result):
-    print k
+    print  k
